@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(16): error C2131: выражение не определяется константой
+  c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(16): note: сбой вызван чтением переменной вне срока ее существования
+  c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(16): note: см. использование "i"
+c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(17): error C2228: выражение слева от ".output" должно представлять класс, структуру или объединение
+  c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(17): note: тип: Neuron [+i]
+c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(20): error C2228: выражение слева от ".name" должно представлять класс, структуру или объединение
+  c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(20): note: тип: Neuron [+i]
+c:\users\дима\desktop\программирование\нейросеть\project1\project1\source.cpp(21): warning C4552: <<: оператор не имеет результата; требуется оператор с побочным действием
