@@ -11,6 +11,7 @@ public:
 int main() {
 	SetConsoleCP(1251);
 	SetConsoleOutputCP(1251);
+	int neuroWeb[32] = {}; 
 	Neuron neuroWeb[32];
 	for(int i = 0; i <= 32; i++) {
 		Neuron neuroWeb[i];
